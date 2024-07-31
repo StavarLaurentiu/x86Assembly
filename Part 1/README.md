@@ -1,7 +1,5 @@
     Work time: ~12h
 
-    Local checker score: 95.0/120
-
 # Task 1
 
     -> Implemented a simple cipher which increases every
