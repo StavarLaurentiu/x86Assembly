@@ -1,6 +1,3 @@
-# Homework 2 - PCLP 2
-# Stavar Laurentiu-Cristian - 312CC
-
     Work time: ~12h
 
     Local checker score: 95.0/120
